@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jaswanth Krishna</h1>
 - 🔭 I’m currently working on **AUTOMATIC DETECTION OF MANGOS USING THERMAL IMAGING**
+
 - 🌱 I’m currently learning **Machine learning and Deep Learning**
 
 - 📫 How to reach me **jaswanthkrishna.e20@iiits.in**
